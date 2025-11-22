@@ -21,8 +21,8 @@
       "path": "hardware/oplus"
     },
     "kernel_tree": {
-      "url": "https://github.com/bijoyv9/android_kernel_realme_sm8250.git",
-      "branch": "phoeniX-AOSP",
+      "url": "https://github.com/AxionAOSP-devices/android_kernel_realme_sm8250.git",
+      "branch": "lineage-23.0",
       "path": "kernel/realme/sm8250"
     },
     "camera_tree": {
