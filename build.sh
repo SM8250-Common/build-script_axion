@@ -17,7 +17,7 @@ ROM_NAME="AxionAOSP"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BUILD_DIR="$HOME/axion"
 MANIFEST_URL="https://github.com/AxionAOSP/android.git"
-MANIFEST_BRANCH="lineage-23.0"
+MANIFEST_BRANCH="lineage-23.1"
 SYNC_JOBS="24"
 
 # Device configuration file (will be loaded from JSON)
