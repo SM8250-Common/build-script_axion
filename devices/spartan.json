@@ -7,32 +7,32 @@
   "repositories": {
     "device_tree": {
       "url": "https://github.com/AxionAOSP-devices/android_device_realme_spartan.git",
-      "branch": "lineage-23.0",
+      "branch": "lineage-23.1",
       "path": "device/realme/spartan"
     },
     "vendor_tree": {
       "url": "https://github.com/AxionAOSP-devices/proprietary_vendor_realme_spartan.git",
-      "branch": "lineage-23.0",
+      "branch": "lineage-23.1",
       "path": "vendor/realme/spartan"
     },
     "hardware_oplus": {
       "url": "https://github.com/AxionAOSP-devices/android_hardware_oplus.git",
-      "branch": "lineage-23.0",
+      "branch": "lineage-23.1",
       "path": "hardware/oplus"
     },
     "kernel_tree": {
       "url": "https://github.com/AxionAOSP-devices/android_kernel_realme_sm8250.git",
-      "branch": "lineage-23.0",
+      "branch": "lineage-23.1",
       "path": "kernel/realme/sm8250"
     },
     "camera_tree": {
-      "url": "https://gitlab.com/ryukftw/proprietary_vendor_oplus_camera.git",
-      "branch": "lineage-23.0",
+      "url": "https://gitlab.com/bijoyv9/proprietary_vendor_oplus_camera.git",
+      "branch": "lineage-23.1",
       "path": "vendor/oplus/camera"
     },
     "hardware_dolby": {
-      "url": "https://github.com/SM8250-Common/hardware_dolby.git",
-      "branch": "16",
+      "url": "https://github.com/bijoyv9/hardware_dolby.git",
+      "branch": "lineage-23.1",
       "path": "hardware/dolby"
     },
     "signing_keys": {
